@@ -1,0 +1,3 @@
+C:/Users/dinha/CLionProjects/questao2/cmake-build-debug/CMakeFiles/questao2.dir
+C:/Users/dinha/CLionProjects/questao2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dinha/CLionProjects/questao2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

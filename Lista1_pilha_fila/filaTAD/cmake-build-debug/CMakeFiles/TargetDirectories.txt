@@ -1,0 +1,3 @@
+C:/Users/dinha/CLionProjects/Lista1_pilha_fila/filaTAD/cmake-build-debug/CMakeFiles/filaTAD.dir
+C:/Users/dinha/CLionProjects/Lista1_pilha_fila/filaTAD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dinha/CLionProjects/Lista1_pilha_fila/filaTAD/cmake-build-debug/CMakeFiles/rebuild_cache.dir

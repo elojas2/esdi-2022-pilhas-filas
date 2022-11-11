@@ -1,0 +1,3 @@
+C:/Users/dinha/CLionProjects/Arvore_bin_lista2/cmake-build-debug/CMakeFiles/lista2_questao3a.dir
+C:/Users/dinha/CLionProjects/Arvore_bin_lista2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dinha/CLionProjects/Arvore_bin_lista2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

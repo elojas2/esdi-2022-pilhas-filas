@@ -1,0 +1,3 @@
+C:/Users/dinha/CLionProjects/Lista1_pilha_fila/Lista1_questao1a/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/dinha/CLionProjects/Lista1_pilha_fila/Lista1_questao1a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dinha/CLionProjects/Lista1_pilha_fila/Lista1_questao1a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
